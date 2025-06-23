@@ -1,5 +1,0 @@
-# please start writing your code here
-requests
-promptgen
-faker
-datetime
