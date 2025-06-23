@@ -1,5 +1,4 @@
-urllib
 requests
 promptgen
-faker
+Faker
 datetime
