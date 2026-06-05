@@ -1,0 +1,8 @@
+pandas
+numpy
+ploty
+seaborn
+matplotlib
+statsmodels
+scikit-learn
+catboost==1.2.8
