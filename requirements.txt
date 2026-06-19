@@ -8,3 +8,5 @@ matplotlib
 
 # Machine Learning
 scikit-learn
+
+plotly
