@@ -1,6 +1,10 @@
-seaborn
+# Core
+warpdrive
+pandas
+numpy
+
+# Visualization
 matplotlib
-statsmodels
+
+# Machine Learning
 scikit-learn
-catboost==1.2.8
-plotly
